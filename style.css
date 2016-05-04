@@ -1,0 +1,97 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\000031}}
+.email-background {
+  background: #eee;
+  padding: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\000035}}
+img {
+  max-width: 55%;
+  padding: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\000039}}
+.email-container, .pre-header, .left-container, .right-container, .footer-tag {
+  max-width: 500px;
+  background: white;
+  font-family: Tahoma;
+  font-size: 25px;
+  margin: 0 auto;
+  margin-top: -5px;
+  overflow: hidden;
+  border-radius: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\0000319}}
+.pre-header {
+  font-family: Ubuntu, sans-serif; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\0000323}}
+p {
+  margin: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  color: #666;
+  line-height: 1.25; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\0000329}}
+h3 {
+  margin: 20px;
+  font-size: 18px;
+  font-weight: 650;
+  color: #666;
+  line-height: 1.25; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\0000335}}
+hr {
+  width: 50px;
+  height: 1.5px;
+  background: #DFDFDF;
+  margin: 0 auto;
+  display: block;
+  border: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\0000343}}
+.credit-button {
+  text-align: center;
+  margin: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\0000347}}
+  .credit-button a {
+    font-size: 16px;
+    font-family: Tahoma;
+    text-decoration: none;
+    display: inline-block;
+    background: #127CB8;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\0000357}}
+.left-container {
+  border-radius: 5px;
+  margin-top: 20px;
+  max-width: 240px;
+  float: left;
+  height: 250px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\0000365}}
+.right-container {
+  border-radius: 5px;
+  margin-top: 20px;
+  max-width: 240px;
+  float: right; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\0000373}}
+.footer-tag {
+  background: none;
+  padding: 20px;
+  font-size: 10px;
+  font-family: Roboto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Carol\/Desktop\/email\/style\.sass}line{font-family:\0000380}}
+.bottom-container {
+  max-width: 500px;
+  max-height: 1000px;
+  background: none;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 5px; }
+
+/*# sourceMappingURL=style.css.map */
